@@ -1,3 +1,4 @@
 mash avocado
 add lemmon
-sitr salt and pepper
+sitr salt 
+add a dash of pepper
